@@ -7,11 +7,11 @@ npm test test/01-intro-to-strings-spec.js
 */
 
 // 1. Print a string of 'Hello World!' to the console
-// Your code here 
+console.log('Hello World!');
 
 
 // 2. Print out your own custom message to the console
-// Your code here 
+// Your code here
 
 
 // Run the following command in the terminal to run this file and see the
