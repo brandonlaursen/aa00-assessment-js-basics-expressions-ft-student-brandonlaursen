@@ -15,50 +15,55 @@ let num3 = 0;
 // in new variables at the end.)
 
 // 1. Set num1 equal to the difference between num1 and num2
-// Your code here 
-
+num1 = num1 - num2;
+// console.log(num1);// 7
 
 
 // 2. Set num1 equal to the product of num1 and num2
-// Your code here 
-
+// 7 * 3
+num1 = num1 * num2;
+// console.log(num1);// 21
 
 
 // 3. Set num2 equal to the quotient when num3 is divided by num1
-// Your code here 
-
+// 0 / 21
+num2 = num3 / num1;
+// console.log(num2);// 0
 
 
 // 4. Set num3 equal to the sum of num1 and num1
-// Your code here 
+// Your code here
+// 21 + 21 = 42
+num3 = num1 + num1;
+// console.log(num3);// 42
 
-
-
-// 5. Set num3 equal to the sum of num1 and 5 
-// Your code here 
-
+// 5. Set num3 equal to the sum of num1 and 5
+// 21 + 5 = 26
+num3 = num1 + 5;
+// console.log(num3);// 26
 
 
 // 6. Set num1 equal to the remainder of num3 divided by 4
-// Your code here 
-
+// 26 % 4 = 6 r = 2
+num1 = num3 % 4;
+// console.log(num1);// 2
 
 
 // 7. Define a variable called predictNum1 and set it to the value that you
 //    think num1 will be after all the operations above are done.
-// Your code here 
+let predictNum1 = 2;
 
 
 
 // 8. Define a variable called predictNum2 and set it to the value that you
 //    think num2 will be after all the operations above are done.
-// Your code here 
+let predictNum2 = 0;
 
 
 
 // 9. Define a variable called predictNum3 and set it to the value that you
 //    think num3 will be after all the operations above are done.
-// Your code here 
+let predictNum3 = 26;
 
 
 

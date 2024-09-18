@@ -11,7 +11,7 @@ console.log('Hello World!')
 
 
 // 2. Print out your own custom message to the console
-// Your code here
+console.log('hello mars!')
 
 
 // Run the following command in the terminal to run this file and see the

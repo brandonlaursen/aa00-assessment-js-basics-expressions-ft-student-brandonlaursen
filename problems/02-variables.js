@@ -9,27 +9,25 @@ npm test test/02-variables-spec.js
 
 // 1. Print the following variable to the console
 let mouse = 'Mickey';
-// Your code here 
-
+console.log(mouse);
 
 
 // 2. Reassign the `mouse` variable to a string of 'Jerry'
-// Your code here 
+mouse = 'Jerry';
 
 
 
 // 3. Print the `mouse` variable to the console
-// Your code here 
-
+console.log(mouse);
 
 
 // 4. Create a variable called `cat` and assign it to a string of 'Tom'
-// Your code here 
-
+// Your code here
+let cat = 'Tom';
 
 
 // 5. Print the `cat` variable to the console
-// Your code here 
+console.log(cat);
 
 // Run the following command in the terminal to run this file and see the
 // outputs printed to the terminal:
